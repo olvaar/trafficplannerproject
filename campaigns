@@ -1,0 +1,203 @@
+#campaign definition
+
+
+campaign1:
+camp_name=Impermo AM Begin Break
+startdate=04/01/2020
+stopdate=05/16/2020
+starthour=06:25
+stophour=13:00
+dailyfreq=6
+dailyshift=0
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000001_001
+length=30
+spotname=begin break impermo voormiddag A
+spot=000004_001
+length=30
+spotname=begin break impermo voormiddag B
+spot=000006_001
+length=30
+spotname=begin break impermo voormiddag C
+
+campaign2:
+camp_name=impermo Namiddag
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=13:00
+stophour=19:25
+dailyfreq=6
+dailyshift=2
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000002_001
+spotname=impermo namiddag A
+length=5
+spot=000005_001
+spotname=impermo namiddag B
+length=30
+spot=000007_001
+length=31
+spotname=impermo namiddag C
+
+campaign3:
+camp_name=Goudaankoop Sint-Truiden
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=06:25
+stophour=18:25
+dailyfreq=10
+dailyshift=0
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000010_001
+spotname=Goudaankoop A
+length=30
+
+
+campaign4:
+camp_name=Bloemenhof
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=06:25
+stophour=18:25
+dailyfreq=5
+dailyshift=2
+blockshift=3
+weekdays=67 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000011_001
+spotname=Bloemenhof spot A
+length=30
+
+campaign5:
+camp_name=Carlton
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=010:35
+stophour=10:35
+dailyfreq=1
+dailyshift=0
+blockshift=0
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000012_001
+spotname=Spot Carlton A
+length=30
+
+campaign6:
+camp_name=Dirix Automatenshop
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=16:25
+stophour=23:59
+dailyfreq=6
+dailyshift=1
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000014_001
+spotname=Spot1 Dirix Automaten A
+length=30
+spot=000015_001
+spotname=Spot2 Dirix Automaten B
+length=15
+
+campaign7:
+camp_name=TOPhour Floating Commercials
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=00:00
+stophour=23:59
+dailyfreq=24
+dailyshift=0
+blockshift=1
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000021_001
+spotname=TOP hour Floating commercial A
+length=30
+spot=000022_001
+spotname=TOP hour Floating commercial B
+length=30
+spot=000023_001
+spotname=TOP hour Floating commercial C
+length=30
+spot=000024_001
+spotname=TOP hour Floating commercial D
+length=30
+spot=000025_001
+spotname=TOP hour Floating commercial E
+length=30
+
+
+campaign8:
+camp_name=BOTTOMhour Floating Commercials1
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=00:00
+stophour=23:59
+dailyfreq=24
+dailyshift=0
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000026_001
+spotname=Bottom hour Floating commercial A
+length=30
+spot=000027_001
+spotname=Bottom hour Floating commercial B
+length=30
+spot=000028_001
+spotname=Bottom hour Floating commercial C
+length=30
+spot=000029_001
+spotname=Bottom hour commercial D
+length=30
+spot=000030_001
+spotname=Bottom hour commercial E
+length=30
+
+
+
+
+
+campaign9:
+camp_name=BOTTOMhour Floating Commercials2
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=00:00
+stophour=23:59
+dailyfreq=24
+dailyshift=0
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000031_001
+spotname=Bottom2 Floating commercial A
+length=30
+spot=000032_001
+spotname=Bottom2 Floating commercial B
+length=30
+spot=000033_001
+spotname=Bottom2 Floating commercial C
+length=30
+spot=000034_001
+spotname=Bottom2 Floating commercial D
+length=30
+
+campaign10:
+camp_name=Impermo AM End Break
+startdate=05/01/2020
+stopdate=05/16/2020
+starthour=06:25
+stophour=13:00
+dailyfreq=6
+dailyshift=0
+blockshift=3
+weekdays=1234567 # 1=mon 2=tue 3=wed 4=thu 5=fri 6=sat 7=sun
+spot=000051_001
+length=30
+spotname=end break impermo voormiddag A
+spot=000054_001
+length=30
+spotname=end break impermo voormiddag B
+spot=000056_001
+length=30
+spotname=end break impermo voormiddag C
+
